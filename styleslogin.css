@@ -1,0 +1,49 @@
+
+* {
+    font-family :verdana,sans-serif;
+    font-size   :14pt;
+	
+}
+
+
+body {
+    width       :700px;
+    margin      :20px auto;
+    background  :#D58936;
+    border      :1px solid #3C1518;
+}
+
+html {
+    background  :#fff
+	
+}
+
+.main {
+    width : 200px;
+	padding :20px;
+}
+
+td {
+	width : 200px;
+}
+
+
+.title {
+    text-align  :center;
+    background  :#A44200;
+    color       :yellow;
+    font-family :helvetica;
+    font-size   :20pt;
+    font-weight :bold;
+    padding     :8px;
+}
+
+img{
+	width : 500px;
+	display : inline-block;
+	position : fixed;
+	left : 60%;
+	top : 0%;
+}
+
+

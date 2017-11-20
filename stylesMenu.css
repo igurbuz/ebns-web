@@ -1,0 +1,50 @@
+body {
+    background-image: url(papanoel.jpg);
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.menu
+{
+    border: 0.5px solid black;
+    background: #D58936;
+    height: 50px;
+    text-align: center;
+    padding-top : 10px;
+    margin-bottom : 20px;
+}
+
+a
+{
+    color : black;
+    font-family: Calibri light;
+    font-size: 1.05em;
+    margin: 20px;
+}
+
+/*
+html
+{
+    border-spacing: none;
+    background:#3c1518;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+        font-size: 2em;
+        margin:50px;
+}
+
+div
+{
+    
+    margin:0px;
+    background: #A44200;
+    padding:25px;
+}
+a:hover {
+	color: blueviolet;
+}
+*/
+

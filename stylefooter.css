@@ -1,0 +1,45 @@
+footer
+{
+    border:0.5px solid black;
+    background: #D58936;
+    height: 70px;
+}
+.contact:hover
+{
+   color:blueviolet; 
+}
+
+.webmaster, .contact {
+    text-align : center;   
+    margin-bottom: 0;
+    margin-top: 0px;
+}
+
+.creator {
+    padding: 0;
+    width: auto;
+    text-align : center;
+}
+
+.divcreator{
+    margin-top: -30px;
+}
+
+.contact {
+    margin-top : -30px;
+}
+
+h3
+{
+    text-justify: none;
+    margin-left: 200px;
+    text-align: left;
+    text-align: center;
+}
+
+li
+{
+    list-style: none;
+    margin: 20px;
+    display: inline-block;
+}
